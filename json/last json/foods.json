@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "63ee014248d5bf9a9badc564"
+  },
+  "name": "Burger",
+  "price": 50,
+  "cals": 800,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee016a48d5bf9a9badc566"
+  },
+  "name": "Chicken",
+  "price": 45,
+  "cals": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee018e48d5bf9a9badc568"
+  },
+  "name": "Assado",
+  "price": 60,
+  "cals": 800,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee02131960cb6c809477e8"
+  },
+  "name": "stick",
+  "price": 65,
+  "cals": 900,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee11ba0e98f4b5ec220330"
+  },
+  "name": "angos",
+  "price": 150,
+  "cals": 1500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee11e70e98f4b5ec220333"
+  },
+  "name": "mntos",
+  "price": 3.9,
+  "cals": 78,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ee15570e98f4b5ec220344"
+  },
+  "name": "soko",
+  "price": 2.9,
+  "cals": 89,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ef8c7d0a3b93b6586262f8"
+  },
+  "name": "banana",
+  "price": 1.9,
+  "cals": 56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63f48b5b669663b5572856b1"
+  },
+  "name": "mango",
+  "price": 12,
+  "cals": 300,
+  "__v": 0
+}]

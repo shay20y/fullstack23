@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- bootstap -->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <title>Document</title>
+    <!-- axois -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- my js -->
+    <script type="module" defer src="js_foods/addFood.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Add new food</h2>
+        <form id="id_form" class="col-md-6 p-2">
+            <label>Food name:</label>
+            <input type="text" id="id_name" class="form-control">
+            <label>Food Price:</label>
+            <input type="number" id="id_price" class="form-control">
+            <label>Food Calories:</label>
+            <input type="number" id="id_cals" class="form-control">
+            <div class="mt-4">
+                <button class="btn btn-success">Add new</button>
+                <button id="btn_cancel" type="button" class="btn btn-danger ms-3">Back</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
